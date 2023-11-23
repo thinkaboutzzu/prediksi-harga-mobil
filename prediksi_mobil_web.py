@@ -36,6 +36,6 @@ if st.button('Prediksi'):
     # convert float to string
     harga_mobil_str = np.array(car_prediction)
     harga_mobil_float = float(harga_mobil_str[0][0])
-    harga_mobil_formatted = f'Harga Mobil Rp. {harga_mobil_float:,.2f}'
+    harga_mobil_formatted = f'Harga Mobil $ {harga_mobil_float:,.2f}'
 
     st.write(harga_mobil_formatted)
