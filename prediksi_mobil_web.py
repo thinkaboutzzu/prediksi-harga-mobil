@@ -41,4 +41,4 @@ if st.button('Prediksi'):
     st.write(harga_mobil_formatted)
 
 
-st.write(".Ard.")
+st.write(":red[this is red!]")
