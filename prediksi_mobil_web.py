@@ -41,4 +41,4 @@ if st.button('Prediksi'):
     st.write(harga_mobil_formatted)
 
 
-st.write(":hex[#FF5733][by Ard]")
+st.write(":grey[by Ard]")
