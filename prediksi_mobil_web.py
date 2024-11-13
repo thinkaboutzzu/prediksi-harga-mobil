@@ -39,3 +39,5 @@ if st.button('Prediksi'):
     harga_mobil_formatted = f'Harga Mobil $ {harga_mobil_float:,.2f}'
 
     st.write(harga_mobil_formatted)
+
+st.write("&copy -ard-")
