@@ -40,5 +40,5 @@ if st.button('Prediksi'):
 
     st.write(harga_mobil_formatted)
 
-teks = "<p style='color:Grey; font-size: 30px;'>"
-st.write(teks)
+
+st.write(".Ard.")
